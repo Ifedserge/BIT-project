@@ -153,17 +153,17 @@ const peoples = [
     {
       name: 'John Doe',
       position: 'General Manager',
-      photo: src='../img/man11.png',
+      photo: src='./img/man11.png',
     },
     {
         name: 'Alexa Biru',
         position: 'Office Director',
-        photo: src='../img/man21.png',
+        photo: src='./img/man21.png',
     },
     {
         name: 'Ronobir Sing',
         position: 'Admin',
-        photo: src='../img/man31.png',
+        photo: src='./img/man31.png',
     }
   ];
   
