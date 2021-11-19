@@ -221,7 +221,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*---------------MAIN--1й блок---------------------------------------------------------------------------------*/
 .page__main-block {
-  background: url(./img/fon.jpg) center no-repeat;
+  background: url(../img/fon.jpg) center no-repeat;
   min-height: 747px;
   width: 100%;
 }
